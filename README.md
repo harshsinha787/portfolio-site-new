@@ -4,7 +4,7 @@ This is my **personal portfolio website** built using **HTML and CSS**, designed
 The site is fully responsive, easy to navigate, and deployed on **GitHub Pages** for global access.
 
 ## Live Demo
-[View Portfolio](https://harshsinha787.github.io/portfolio-site/)
+[View Portfolio](https://harshsinha787.github.io/portfolio-site-new/)
 
 ## Features
 - **Responsive Design** – Works seamlessly on desktop, tablet, and mobile devices.  
