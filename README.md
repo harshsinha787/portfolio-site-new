@@ -26,4 +26,4 @@ The site is fully responsive, easy to navigate, and deployed on **GitHub Pages**
 ## How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/harshsinha787/portfolio-site.git
+   git clone https://github.com/harshsinha787/portfolio-site-new.git
